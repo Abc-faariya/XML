@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="front.xsl"?>
+<stationary>
+    <!-- Product 1 -->
+    <product>
+        <productname>Premium Pen</productname>
+        <price>15.99</price>
+        <description>High-quality ballpoint pen with smooth writing experience.</description>
+        <category>Writing Tools</category>
+        <availability>In Stock</availability>
+    </product>
+
+    <!-- Product 2 -->
+    <product>
+        <productname>Leather Notebook</productname>
+        <price>30.50</price>
+        <description>Elegant leather-bound notebook for professionals and students.</description>
+        <category>Notebooks</category>
+        <availability>In Stock</availability>
+    </product>
+
+    <!-- Product 3 -->
+    <product>
+        <productname>Personal Planner</productname>
+        <price>25.00</price>
+        <description>Perfect planner for organizing your daily tasks and goals.</description>
+        <category>Planners</category>
+        <availability>Out of Stock</availability>
+    </product>
+
+    <!-- Product 4 -->
+    <product>
+        <productname>Artistic Markers Set</productname>
+        <price>22.75</price>
+        <description>Vibrant markers for creating detailed artwork and designs.</description>
+        <category>Drawing Tools</category>
+        <availability>In Stock</availability>
+    </product>
+
+    <!-- Product 5 -->
+    <product>
+        <productname>Desk Organizer</productname>
+        <price>18.00</price>
+        <description>Wooden desk organizer to keep your workspace neat and tidy.</description>
+        <category>Office Accessories</category>
+        <availability>In Stock</availability>
+</product>
+
+     <!-- Product 1 -->
+    <product>
+        <productname>Premium Pen</productname>
+        <price>15.99</price>
+        <description>High-quality ballpoint pen with smooth writing experience.</description>
+        <category>Writing Tools</category>
+        <availability>In Stock</availability>
+    </product>
+
+    <!-- Product 2 -->
+    <product>
+        <productname>Leather Notebook</productname>
+        <price>30.50</price>
+        <description>Elegant leather-bound notebook for professionals and students.</description>
+        <category>Notebooks</category>
+        <availability>In Stock</availability>
+    </product>
+
+    <!-- Product 3 -->
+    <product>
+        <productname>Personal Planner</productname>
+        <price>25.00</price>
+        <description>Perfect planner for organizing your daily tasks and goals.</description>
+        <category>Planners</category>
+        <availability>Out of Stock</availability>
+    </product>
+
+    <!-- Product 4 -->
+    <product>
+        <productname>Artistic Markers Set</productname>
+        <price>22.75</price>
+        <description>Vibrant markers for creating detailed artwork and designs.</description>
+        <category>Drawing Tools</category>
+        <availability>In Stock</availability>
+    </product>
+
+    <!-- Product 5 -->
+    <product>
+        <productname>Desk Organizer</productname>
+        <price>18.00</price>
+        <description>Wooden desk organizer to keep your workspace neat and tidy.</description>
+        <category>Office Accessories</category>
+        <availability>In Stock</availability>
+</product>
+
+   
+</stationary>
